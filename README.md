@@ -3,7 +3,7 @@
 # Depix Colab
 Google Colab Notebook for Depix
 
-Depix is a tool for recovering passwords from pixelized screenshots.
+Depix is a tool for recovering text from pixelized screenshots.
 
 This implementation works on pixelized images that were created with a linear box filter.
 In [this article](https://www.linkedin.com/pulse/recovering-passwords-from-pixelized-screenshots-sipke-mellema) I cover background information on pixelization and similar research.
