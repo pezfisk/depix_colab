@@ -9,7 +9,7 @@ This implementation works on pixelized images that were created with a linear bo
 In [this article](https://www.linkedin.com/pulse/recovering-passwords-from-pixelized-screenshots-sipke-mellema) I cover background information on pixelization and similar research.
 
 ## Example
-![image](docs/img/Recovering_prototype_latest.png)
+![image](https://github.com/beurtschipper/Depix/blob/main/docs/img/Recovering_prototype_latest.png)
 
 
 [Original repo here](https://github.com/beurtschipper/Depix)
